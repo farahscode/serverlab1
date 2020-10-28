@@ -6,7 +6,7 @@ import javax.faces.bean.RequestScoped;
 @ManagedBean
 @RequestScoped
 public class serverAjax {
-
+//farah suger
     private String name;
 
     public String getName() {
